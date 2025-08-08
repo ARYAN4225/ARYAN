@@ -1,4 +1,8 @@
-# ARYAN# Hi 
+<p align="center">
+  <img src="https://your-image-link.com/photo.jpg" width="200" alt="Aryan's Profile Picture"/>
+</p>
+# ARYAN
+# Hi 
 👋, I'm Aryan
 
 ## 🛡️ Aspiring Cybersecurity Professional | Ethical Hacker | Bug Bounty Hunter
@@ -24,6 +28,20 @@ Passionate and self-driven Cybersecurity Enthusiast with hands-on experience in 
 - Kali Linux, Parrot OS, Termux
 - Python, Bash, JavaScript
 - Git & GitHub
+### 👨‍💻 Tools I Use
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-4477AA?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-0097e7?style=for-the-badge)
 
 ---
 
