@@ -1,39 +1,26 @@
+<h1 align="center">Hey 👋, I'm Aryan Mohite</h1>
+<h3 align="center">Cybersecurity Enthusiast | Ethical Hacking Learner</h3>
+
 <p align="center">
-  <img src="https://your-image-link.com/photo.jpg" width="200" alt="Aryan's Profile Picture"/>
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" height="150" style="border-radius: 50%" alt="Aryan's Profile Photo"/>
 </p>
-# ARYAN
-# Hi 
-👋, I'm Aryan
-
-## 🛡️ Aspiring Cybersecurity Professional | Ethical Hacker | Bug Bounty Hunter
-
-Passionate and self-driven Cybersecurity Enthusiast with hands-on experience in ethical hacking, penetration testing, and web application security. I am constantly learning and exploring vulnerabilities, attack surfaces, and ways to secure modern systems.
 
 ---
 
-### 🔍 Areas of Focus
+### 🧠 About Me
 
-- ✅ Web Application Pentesting
-- ✅ API & Mobile App Security Testing
-- ✅ Bug Bounty Hunting
-- ✅ Red Teaming & OSINT
-- ✅ Python for Hacking & Automation
+- 🔐 I’m passionate about Cybersecurity, Ethical Hacking, and Web Application Security.
+- 💻 Currently learning bug bounty hunting and web pentesting.
+- 🚀 Exploring tools like Burp Suite, SQLMap, Nmap, WPScan, and more.
+- 🌱 Constantly upgrading my skills in Python, Bash, and JavaScript.
 
 ---
-
-### 🛠️ Tools I Use
-
-- Burp Suite, Nmap, WPScan, Nikto
-- SQLMap, Hydra, Metasploit, Gobuster
-- Kali Linux, Parrot OS, Termux
-- Python, Bash, JavaScript
-- Git & GitHub
 
 ### 🛠️ Tools I Use
 
 <p align="left">
 
-  <!-- Programming Languages -->
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
@@ -42,12 +29,12 @@ Passionate and self-driven Cybersecurity Enthusiast with hands-on experience in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
 
-  <!-- OS Tools (Custom Icons) -->
+  <!-- OS Platforms -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Kali-dragon-icon.svg" width="40" alt="Kali Linux" />
   <img src="https://avatars.githubusercontent.com/u/16720161?s=200&v=4" width="40" alt="Parrot OS" />
   <img src="https://play-lh.googleusercontent.com/1OaH5exL_R6FzvKJrKuV0x09j2wzstEHLpMxVxw0sQpycu5_lmK5sDC3Vwzv3m9Aqg=w240-h480" width="40" alt="Termux" />
 
-  <!-- Security Tools (Custom Icons) -->
+  <!-- Pentesting Tools -->
   <img src="https://avatars.githubusercontent.com/u/1388398?s=200&v=4" width="40" alt="Burp Suite" />
   <img src="https://nmap.org/images/nmap-logo-64px.png" width="40" alt="Nmap" />
   <img src="https://wpscan.com/assets/logo.png" width="40" alt="WPScan" />
@@ -59,23 +46,15 @@ Passionate and self-driven Cybersecurity Enthusiast with hands-on experience in 
 
 </p>
 
-
-
----
-
-### 🧠 Learning Goals
-
-- Mobile App Pentesting (Android)
-- Custom Vulnerability Scanners
-- CTF Challenges & Red Team Tools
-
 ---
 
 ### 📫 Connect with Me
 
-- 📧 Email: [aryan.cybersec@gmail.com](mailto:aryan.cybersec@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/aryan-cyber](https://linkedin.com/in/aryan-cyber)
+- 📧 Email: aryan@example.com *(replace this with your real email)*
+- 💬 LinkedIn: [linkedin.com/in/aryanmohite](https://linkedin.com/in/aryanmohite)
+- 🌐 Blog / Portfolio Website: *(optional)*
 
 ---
 
-> “Hack to learn. Never learn to hack unethically.” 🧠
+⭐️ Star this profile to show support!  
+🛡️ Stay ethical. Hack the right way.
